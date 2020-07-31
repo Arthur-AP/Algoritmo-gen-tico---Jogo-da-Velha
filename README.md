@@ -8,6 +8,6 @@
 [![](http://img.youtube.com/vi/H74lDw8TPus/0.jpg)](http://www.youtube.com/watch?v=H74lDw8TPus "Algoritmo genético para Jogo da Velha")
 
 ## Gráfico do Fit x Geração da população para 15 gerações. 
-![]()
+![Gráfico do Fit x Geração](https://github.com/Arthur-AP/Algoritmo-gen-tico---Jogo-da-Velha/blob/master/Gr%C3%A1fico%20fitness%20X%20gera%C3%A7%C3%A3o.png)
 O programa pode continuar evoluindo, aumentando o numero de vitórias do jogador, se utilizar mais gerações, aqui foram
   utilizadas apenas 15 para exemplificação!
