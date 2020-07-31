@@ -10,5 +10,6 @@
 ## Gráfico do Fit x Geração da população para 15 gerações. 
 ![Gráfico do Fit x Geração](https://github.com/Arthur-AP/Algoritmo-gen-tico---Jogo-da-Velha/blob/master/Gr%C3%A1fico%20fitness%20X%20gera%C3%A7%C3%A3o.png)
 
-    O programa pode continuar evoluindo, aumentando o número de vitórias do jogador, se utilizar mais gerações. Aqui foram utilizadas apenas 15 para exemplificação!
+    O programa pode continuar evoluindo, aumentando o número de vitórias do jogador, se aumentar a quantidade de gerações. 
+    Aqui foram utilizadas apenas 15 para exemplificação!
   
