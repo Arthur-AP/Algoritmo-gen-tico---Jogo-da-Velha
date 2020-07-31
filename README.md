@@ -1,7 +1,7 @@
 # Algoritmo Genético para Jogo da Velha
 
 ## Descrição:
-  - Este projeto remete-se a disciplina "Sistemas evolutivos aplicados a robótica" ministrada pelo professor Dr. Eduardo Simões do Valle. O trabalho se baseia na criação de
+  - Este projeto remete-se a disciplina "Sistemas evolutivos aplicados a robótica" ministrada pelo professor Dr. Eduardo do Valle Simões. O trabalho se baseia na criação de
     um algoritmo genético a fim de evoluir um jogador virtual de jogo da velha para máximizar suas vitórias.
 
 ## Vídeo explicativo do programa criado na IDE CodeBlocks em linguagem C.
